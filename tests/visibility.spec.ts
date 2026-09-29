@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('link visible only after hover', async ({ page }) => {
   // Recording...
   await page.goto('https://playwright.dev/');
   // Python option should not be visible
