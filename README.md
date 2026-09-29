@@ -1,2 +1,2 @@
-# FirstTestWithPlaywrite
-Simple testing of playwrite - first use
+# FirstTestWithPlaywright
+Simple testing of playwright - first use
